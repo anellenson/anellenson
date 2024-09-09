@@ -28,8 +28,8 @@ I’m always looking to learn new things and expand my skill set. Currently, I�
 
 ## 🌟 How to Reach Me
 
-- 📧 Email: [your-email@example.com](mailto:anellenson@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile]([link-to-your-linkedin-profile](https://www.linkedin.com/in/ashley-ellenson-phd-b76a3131/))
+- 📧 Email: [anellenson@gmail.com](mailto:anellenson@gmail.com)
+- 🌐 LinkedIn: [LinkedIn]([link-to-your-linkedin-profile](https://www.linkedin.com/in/ashley-ellenson-phd-b76a3131/))
 
 
 
