@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hello, I'm Ashley! 👋
 
-<!--
-**anellenson/anellenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate data scientist and environmental consultant with a background in machine learning and marine science. I’m excited about leveraging big data to uncover insights and solve complex problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 PhD in Marine Science with a focus on machine learning applications.
+- 💼 Currently working in Environmental Consulting at Integral.
+- 🌍 Experienced in integrating ML techniques with geoscience and engineering.
+- 🌟 Enthusiastic about data-driven storytelling and finding patterns within massive datasets.
+
+## 🔭 Currently Working On
+
+- Developing fema-dune-erosion-tool: A tool to project coastal shorelines based on different sea level rise horizons and in accordance with FEMA.
+
+## 🌱 Skills
+
+- **Programming Languages**: Python, SQL, R
+- **Machine Learning**: Sci-Kit Learn, PyTorch, TensorFlow
+- **Data Tools**: Jupyter Notebooks, Pandas, NumPy
+- **Other**: Git, Docker
+
+
+## 📚 Learning and Growing
+
+I’m always looking to learn new things and expand my skill set. Currently, I’m exploring:
+- Generating datasets with physics-based models.
+
+## 🌟 How to Reach Me
+
+- 📧 Email: [your-email@example.com](mailto:anellenson@gmail.com)
+- 🌐 LinkedIn: [Your LinkedIn Profile]([link-to-your-linkedin-profile](https://www.linkedin.com/in/ashley-ellenson-phd-b76a3131/))
+
+
+
+## 🤝 Let's Connect
+
+I’m open to collaborating on interesting projects, discussing new technologies, or just connecting with like-minded individuals. Feel free to reach out!
+
+---
+
+*Thanks for visiting my profile! 😊*
